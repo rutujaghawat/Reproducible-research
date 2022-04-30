@@ -679,4 +679,4 @@ BIN +8.81 KB figure/fig3.png
 BIN +4.71 KB figure/fig4.png
 
  
-figure/fig5.png
+ BIN +5.58 KB figure/fig5.png
