@@ -667,16 +667,16 @@ It is now possible to collect a large amount of data about personal
 doc/instructions.pdf
 Binary file not shown.
  BIN +4.85 KB 
-figure/unnamed-chunk-14-1.png
+figure/fig1.png
 
  BIN +5 KB 
-figure/unnamed-chunk-17-1.png
+figure/fig2.png
 
  BIN +8.81 KB 
-figure/unnamed-chunk-23-1.png
+figure/fig3.png
 
  BIN +4.71 KB 
-figure/unnamed-chunk-5-1.png
+figure/fig4.png
 
  BIN +5.58 KB 
-figure/unnamed-chunk-8-1.png
+figure/fig5.png
