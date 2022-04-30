@@ -676,7 +676,7 @@ Binary file not shown.
 BIN +8.81 KB figure/fig3.png
 
  
-figure/fig4.png
+BIN +4.71 KB figure/fig4.png
 
  
 figure/fig5.png
