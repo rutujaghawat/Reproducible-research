@@ -667,7 +667,7 @@ It is now possible to collect a large amount of data about personal
 doc/instructions.pdf
 Binary file not shown.
   
-figure/fig1.png
+ BIN +4.85 KB figure/fig1.png
 
  
 figure/fig2.png
