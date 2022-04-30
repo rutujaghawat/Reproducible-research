@@ -666,17 +666,17 @@ It is now possible to collect a large amount of data about personal
  BIN -184 KB 
 doc/instructions.pdf
 Binary file not shown.
- BIN +4.85 KB 
+  
 figure/fig1.png
 
- BIN +5 KB 
+ 
 figure/fig2.png
 
- BIN +8.81 KB 
+ 
 figure/fig3.png
 
- BIN +4.71 KB 
+ 
 figure/fig4.png
 
- BIN +5.58 KB 
+ 
 figure/fig5.png
